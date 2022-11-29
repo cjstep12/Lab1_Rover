@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Tue Nov 29 04:57:07 2022
+# Process ID: 42228
+# Current directory: C:/Users/conne/project_IC2Protocol/project_IC2Protocol.runs/synth_1
+# Command line: vivado.exe -log i2c_master.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source i2c_master.tcl
+# Log file: C:/Users/conne/project_IC2Protocol/project_IC2Protocol.runs/synth_1/i2c_master.vds
+# Journal file: C:/Users/conne/project_IC2Protocol/project_IC2Protocol.runs/synth_1\vivado.jou
+# Running On: BLD, OS: Windows, CPU Frequency: 3700 MHz, CPU Physical cores: 12, Host memory: 17101 MB
+#-----------------------------------------------------------
+source i2c_master.tcl -notrace
